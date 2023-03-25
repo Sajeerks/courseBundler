@@ -1,0 +1,3 @@
+[submodule "courseBundler"]
+	path = courseBundler
+	url = https://github.com/Sajeerks/courseBundler.git
